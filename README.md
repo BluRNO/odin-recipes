@@ -1,1 +1,2 @@
 # odin-recipes
+This is a recipe webpage project to help me learn about basic HTML and help me to use "git commit" for simple messages and code changes. The skill I required were linking different webpages to the main site and knowing that not every change needs a commit message on Git.
